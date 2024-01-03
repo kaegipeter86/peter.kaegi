@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://kaegipeter86.github.io/peter.kaegi/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'PaperMod'
